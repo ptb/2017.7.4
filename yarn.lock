@@ -2749,6 +2749,12 @@ gulp-svgmin@^1.2.4:
     gulp-util "^3.0.4"
     svgo "^0.7.0"
 
+gulp-trimlines@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gulp-trimlines/-/gulp-trimlines-1.0.1.tgz#7b17916b850ca0f05af4190dd24e9ac1e26e9f26"
+  dependencies:
+    through2 "^0.6.3"
+
 gulp-util@3.0.8, gulp-util@^3.0, gulp-util@^3.0.0, gulp-util@^3.0.2, gulp-util@^3.0.4, gulp-util@^3.0.5, gulp-util@^3.0.6, gulp-util@^3.0.7, gulp-util@^3.0.8:
   version "3.0.8"
   resolved "https://registry.yarnpkg.com/gulp-util/-/gulp-util-3.0.8.tgz#0054e1e744502e27c04c187c3ecc505dd54bbb4f"
@@ -5902,7 +5908,7 @@ through2@^0.5.0:
     readable-stream "~1.0.17"
     xtend "~3.0.0"
 
-through2@^0.6.0, through2@^0.6.5, through2@~0.6.3:
+through2@^0.6.0, through2@^0.6.3, through2@^0.6.5, through2@~0.6.3:
   version "0.6.5"
   resolved "https://registry.yarnpkg.com/through2/-/through2-0.6.5.tgz#41ab9c67b29d57209071410e1d7a7a968cd3ad48"
   dependencies:
