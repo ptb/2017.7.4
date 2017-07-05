@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "gulp-changed-in-place": "^2.2.0",
+    "kexec": "^3.0.0",
     "riot": "^3.6.1"
   },
   "description": "web project template",
