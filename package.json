@@ -4,6 +4,7 @@
     "url": "https://github.com/ptb/2017.7.4/issues"
   },
   "dependencies": {
+    "gulp-changed-in-place": "^2.2.0",
     "riot": "^3.6.1"
   },
   "description": "web project template",
